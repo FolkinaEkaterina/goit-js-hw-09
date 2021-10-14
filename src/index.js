@@ -2,7 +2,7 @@ import './sass/main.scss';
 import { galleryItems } from './js/galleryItems';
 import refs from './js/refs';
 import { createGallery } from './js/createGallery';
-const { galery, lightbox, overlay, imgLightbox, btnLightbox } = refs;
+const { gallery, lightbox, overlay, imgLightbox, btnLightbox } = refs;
 
 //Создаём разметку
 
